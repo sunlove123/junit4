@@ -24,31 +24,16 @@
 
     <developers>
         <developer>
-            <id>dsaff</id>
-            <name>David Saff</name>
-            <email>david@saff.net</email>
-        </developer>
-        <developer>
-            <id>kcooney</id>
-            <name>Kevin Cooney</name>
-            <email>kcooney@google.com</email>
-        </developer>
-        <developer>
-            <id>stefanbirkner</id>
-            <name>Stefan Birkner</name>
-            <email>mail@stefan-birkner.de</email>
-        </developer>
-        <developer>
-            <id>marcphilipp</id>
-            <name>Marc Philipp</name>
-            <email>mail@marcphilipp.de</email>
+            <id>425721</id>
+            <name>DeenaDhayalan</name>
+            <email>deenadeepak123@gmail.com</email>
         </developer>
     </developers>
     <contributors>
         <contributor>
             <name>JUnit contributors</name>
             <organization>JUnit</organization>
-            <email>junit@yahoogroups.com</email>
+            <email>deenadhayalan.b.cts@gmail.com</email>
             <url>https://github.com/junit-team/junit4/graphs/contributors</url>
             <roles>
                 <role>developers</role>
@@ -59,8 +44,8 @@
     <mailingLists>
         <mailingList>
             <name>JUnit Mailing List</name>
-            <post>junit@yahoogroups.com</post>
-            <archive>https://groups.yahoo.com/neo/groups/junit/info</archive>
+            <post>deenadeepak123@gmail.com</post>
+            <archive></archive>
         </mailingList>
     </mailingLists>
 
@@ -69,9 +54,9 @@
     </prerequisites>
 
     <scm>
-        <connection>scm:git:git://github.com/junit-team/junit4.git</connection>
-        <developerConnection>scm:git:git@github.com:junit-team/junit4.git</developerConnection>
-        <url>http://github.com/junit-team/junit4/tree/master</url>
+        <connection>scm:git:git://github.com/sunlove123/junit4.git</connection>
+        <developerConnection>scm:git:git@github.com:sunlove123/junit4.git</developerConnection>
+        <url>https://github.com/sunlove123/junit4.git/</url>
       <tag>HEAD</tag>
   </scm>
     <issueManagement>
@@ -87,16 +72,16 @@
         <snapshotRepository>
             <id>junit-snapshot-repo</id>
             <name>Nexus Snapshot Repository</name>
-            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+            <url>http://localhost:8082/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>junit-releases-repo</id>
             <name>Nexus Release Repository</name>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+            <url>http://localhost:8082/nexus/content/repositories/releases/</url>
         </repository>
         <site>
             <id>junit.github.io</id>
-            <url>gitsite:git@github.com/junit-team/junit4.git</url>
+            <url>gitsite:git@github.com/sunlove123/junit4.git</url>
         </site>
     </distributionManagement>
 
